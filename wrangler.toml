@@ -2,6 +2,3 @@ name = "sphinx-aether-api"
 main = "src/index.js"
 compatibility_date = "2025-11-19"
 
-[vars]
-# This is your public API URL exposed via Traefik
-BACKEND_URL = "https://voyagers-api.aetherintelligence.net"
