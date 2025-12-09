@@ -3,7 +3,7 @@ main = "src/index.js"
 compatibility_date = "2025-11-19"
 
 [vars]
-BACKEND_URL = "https://voyagers-api.aetherintelligence.net"
+BACKEND_URL="https://voyagers-api.aetherintelligence.net"
 
 [observability]
 enabled = true
